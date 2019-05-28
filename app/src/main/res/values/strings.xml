@@ -1,0 +1,9 @@
+<resources>
+    <!-- Create by : Ari & Selamat -->
+    <string name="app_name"></string>
+    <string-array name="android_layout_arrays">
+        <item>Jenis Kelamin</item>
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
